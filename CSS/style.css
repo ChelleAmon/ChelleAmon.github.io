@@ -16,3 +16,10 @@
 }
 /*************************************************************************/
 
+/*font styles*/
+.Noto_Serif{
+    font-family: 'Noto Serif', serif;
+}
+.satisfy{
+    font-family: 'Satisfy', cursive;
+}
