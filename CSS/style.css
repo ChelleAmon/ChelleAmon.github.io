@@ -27,8 +27,8 @@ html, body {
     font-family: 'Satisfy', cursive;
 }
 
-/*Navbar on Carousel*/
-.carousel, .item, .active, .carousel-inner{
+/* Carousel*/
+/*.carousel, .item, .active, .carousel-inner{
     height: 100vh;
 }
 .carousel{
@@ -37,23 +37,25 @@ html, body {
 .carousel-inner img{
     margin:auto;
 }
-.navbar {
-    z-index:9;
-}
 
 #carousel-hero{
     position: absolute;
     width: 100%;
     top:0;
-}
-.navbar-brand{
+}*/
+
+/*Navigation bar*/
+/*.navbar-brand{
     position: relative;
     background:url(/images/mainlogo1.svg);
     width: 30px;
     left:15px;
     background-size:contain;
-
 }
+.navbar {
+    z-index:9;
+}
+*/
 
 
 /*Responsive breakpoints
