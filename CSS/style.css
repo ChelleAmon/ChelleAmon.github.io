@@ -29,11 +29,8 @@
     color: #f3fae0;
     font-size: 1.5rem;
 }
-.navtext a {
-    color: #f3fae0;
-    font-size: 1.5rem;
-}
-li a:hover{
+
+.navtext a:hover{
     color: #dda15e;
 }
 .navbar-dark{
