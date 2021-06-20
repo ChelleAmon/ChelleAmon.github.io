@@ -27,35 +27,17 @@ html, body {
     font-family: 'Satisfy', cursive;
 }
 
+.navtext li a {
+    color: #f3fae0;
+    font-size: 1.5em;
+}
+li a:hover{
+    color: #dda15e;
+}
+
+
 /* Carousel*/
-/*.carousel, .item, .active, .carousel-inner{
-    height: 100vh;
-}
-.carousel{
-    top:0;
-}
-.carousel-inner img{
-    margin:auto;
-}
-
-#carousel-hero{
-    position: absolute;
-    width: 100%;
-    top:0;
-}*/
-
-/*Navigation bar*/
-/*.navbar-brand{
-    position: relative;
-    background:url(/images/mainlogo1.svg);
-    width: 30px;
-    left:15px;
-    background-size:contain;
-}
-.navbar {
-    z-index:9;
-}
-*/
+/*Navbar*/
 
 
 /*Responsive breakpoints
