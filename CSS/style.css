@@ -1,6 +1,4 @@
-html, body {
-    height: 100vh;
-}
+
 /* color palletes primary choice */
 .color_16{
     background-color:#606c38;
@@ -29,10 +27,17 @@ html, body {
 
 .navtext li a {
     color: #f3fae0;
-    font-size: 1.5em;
+    font-size: 1.5rem;
+}
+.navtext a {
+    color: #f3fae0;
+    font-size: 1.5rem;
 }
 li a:hover{
     color: #dda15e;
+}
+.navbar-dark{
+    color: #f3fae0;
 }
 
 
