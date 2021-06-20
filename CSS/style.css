@@ -46,5 +46,34 @@ html, body {
     width: 100%;
     top:0;
 }
+.navbar-brand{
+    position: relative;
+    background:url(/images/mainlogo1.svg);
+    width: 30px;
+    left:15px;
+    background-size:contain;
 
+}
+
+
+/*Responsive breakpoints
+
+@media only screen and (max-width: 576px){
+    .main_logo_size {
+        width: 30px;
+        height: 30px;
+    }
+}
+@media only screen and   (max-width: 768px){
+    .main_logo_size {
+        width: 70px;
+        height: 70px;
+    }
+}
+@media only screen and   (min-width: 768px){
+    .main_logo_size {
+        width: 90px;
+        height: 90px;
+    }
+}*/
 
