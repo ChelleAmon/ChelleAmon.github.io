@@ -1,6 +1,5 @@
-* {
-    background-color:#283618;
-
+html, body {
+    height: 100vh;
 }
 /* color palletes primary choice */
 .color_16{
@@ -27,3 +26,25 @@
 .satisfy{
     font-family: 'Satisfy', cursive;
 }
+
+/*Navbar on Carousel*/
+.carousel, .item, .active, .carousel-inner{
+    height: 100vh;
+}
+.carousel{
+    top:0;
+}
+.carousel-inner img{
+    margin:auto;
+}
+.navbar {
+    z-index:9;
+}
+
+#carousel-hero{
+    position: absolute;
+    width: 100%;
+    top:0;
+}
+
+
