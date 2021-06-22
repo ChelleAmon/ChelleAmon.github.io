@@ -17,13 +17,31 @@
 }
 /*************************************************************************/
 
-/*font styles*/
+/*************font styles******************/
 .Noto_Serif{
     font-family: 'Noto Serif', serif;
 }
 .satisfy{
     font-family: 'Satisfy', cursive;
 }
+.font_color_16{
+    color:#606c38; 
+}
+.font_color_17{
+    color:#283618; 
+}
+.font_color_18{
+    color:#f3fae0; 
+}
+.font_color_19{
+    color:#dda15e; 
+}
+.font_color_20{
+    color:#bc6c25; 
+}
+
+
+/**************NAVIGATION BAR********************/
 
 .navtext li a {
     color: #f3fae0;
@@ -63,3 +81,4 @@
     }
 }*/
 
+/****************CONTACT FORM******************/
