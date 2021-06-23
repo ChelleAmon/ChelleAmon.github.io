@@ -1,5 +1,5 @@
 
-/* color palletes primary choice */
+/* color palletes primary choices */
 .color_16{
     background-color:#606c38;
 }
@@ -39,6 +39,12 @@
 .font_color_20{
     color:#bc6c25; 
 }
+
+.font-size1{
+    font-size: 2em;
+}
+
+
 /**************BUTTON STYLING****************/
 .btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited .btn-primary:focus{
     background-color: #606c38 !important;
@@ -63,6 +69,9 @@
 .navbar-dark{
     color: #f3fae0;
 }
+
+/************************FOOTER*************************/
+
 
 
 /* Carousel*/
