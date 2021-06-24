@@ -91,9 +91,23 @@
     font-size:12px;
 }
 
+/************************About-Quotation*************************/
+#quotation {
+    background-color:#f1f1f1;
+    margin-top: 5vmax;
+}
 
-
-
+#quotation p.quote{
+    font-size: 20px;
+    padding-top: 4vmax;
+   /* padding-bottom: 5vmax;*/
+}
+#quotation p.quoted-by{
+    padding-top:2vmax;
+    padding-bottom:3vmax;
+    font-size:15px;
+    font-weight: bold;
+}
 /************************FOOTER*************************/
 
 
