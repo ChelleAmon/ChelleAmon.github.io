@@ -40,9 +40,6 @@
     color:#bc6c25; 
 }
 
-.font-size1{
-    font-size: 2em;
-}
 
 
 /**************BUTTON STYLING****************/
@@ -108,8 +105,6 @@
     font-size:15px;
     font-weight: bold;
 }
-/************************FOOTER*************************/
-
 /*************************About-employment sections*********************/
 #employment h4{
     font-size: 2.2em;
@@ -168,7 +163,20 @@
     font-size:12px;
 }
 
+/************************FOOTER*************************/
+.custom-fab{
+    margin-right: 20px;
+    color:#f3fae0;
+ 
+}
+.footerlogo{
+   /* margin-left: 2%;*/
+    font-size: 0.7em;
+}
 
+.trademark{
+    margin-top: 5vmax;
+}
 /* Carousel*/
 /*Navbar*/
 
