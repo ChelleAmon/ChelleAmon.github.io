@@ -67,7 +67,7 @@
     color: #dda15e;
 }
 .navbar-dark{
-    color: #f3fae0;
+    color: #f3fae0 !important;
 }
 
 /************************FOOTER*************************/
