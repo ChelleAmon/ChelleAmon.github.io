@@ -110,7 +110,7 @@
 }
 /************************FOOTER*************************/
 
-/*************************About-biography sections*********************/
+/*************************About-employment sections*********************/
 #employment h4{
     font-size: 2.2em;
     font-weight: bold;
@@ -130,7 +130,7 @@
     font-size:12px;
 }
 
-/************************About-Quotation*************************/
+/************************About- another Quotation*************************/
 #quotation2 {
     background-color:#f1f1f1;
     margin-top: 5vmax;
@@ -146,6 +146,26 @@
     padding-bottom:3vmax;
     font-size:15px;
     font-weight: bold;
+}
+
+/*************************About-education section*********************/
+#education h4{
+    font-size: 2.2em;
+    font-weight: bold;
+}
+#education p{
+    margin-top:2vw;
+    font-size: 1em;
+}
+.education-right{
+    border:#dda15e 2px solid;
+    border-radius: 20px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+#education .bio-btn{
+    font-size:12px;
 }
 
 
