@@ -110,7 +110,25 @@
 }
 /************************FOOTER*************************/
 
+/*************************About-biography sections*********************/
+#employment h4{
+    font-size: 2.2em;
+    font-weight: bold;
+}
+#employment p{
+    margin-top:2vw;
+    font-size: 1 em;
+}
+.employment-right{
+    border:#dda15e 2px solid;
+    border-radius: 20px;
+    padding: 20px;
+    box-sizing: border-box;
+}
 
+#employment .bio-btn{
+    font-size:12px;
+}
 
 
 /* Carousel*/
