@@ -130,6 +130,24 @@
     font-size:12px;
 }
 
+/************************About-Quotation*************************/
+#quotation2 {
+    background-color:#f1f1f1;
+    margin-top: 5vmax;
+}
+
+#quotation2 p.quote2{
+    font-size: 20px;
+    padding-top: 4vmax;
+   /* padding-bottom: 5vmax;*/
+}
+#quotation2 p.quoted-by2{
+    padding-top:2vmax;
+    padding-bottom:3vmax;
+    font-size:15px;
+    font-weight: bold;
+}
+
 
 /* Carousel*/
 /*Navbar*/
