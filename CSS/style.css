@@ -181,25 +181,81 @@
 /*Navbar*/
 
 
-/*Responsive breakpoints
+/*Responsive breakpoints*/
 
-@media only screen and (max-width: 576px){
-    .main_logo_size {
-        width: 30px;
-        height: 30px;
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+    #contact_header{
+        font-size: 20px;
     }
+    #contact_lead{
+        font-size: 11px;
+    }
+    #portfolio_header{
+        font-size: 20px;
+    }
+    #about_lead{
+        font-size: 11px;
+    }
+    #about_lead{
+        font-size: 11px;
+    }
+
+ }
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+    #contact_header{
+        font-size: 30px;
+    }
+    #contact_lead{
+        font-size: 14px;
+    }
+    #portfolio_header{
+        font-size: 30px;
+    }
+    #portfolio_lead{
+        font-size: 14px;
+    }
+    #about_header{
+        font-size: 30px;
+    }
+    #about_lead{
+        font-size: 14px;
+    }
+ }
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    #contact_header{
+        font-size: 40px;
+    }
+    #contact_lead{
+        font-size: 17px;
+    }
+    #portfolio_header{
+        font-size: 40px;
+    }
+    #portfolio_lead{
+        font-size: 17px;
+    }
+    #about_header{
+        font-size: 40px;
+    }
+    #about_lead{
+        font-size: 17px;
+    }
+
+ }
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+ }
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { 
+
 }
-@media only screen and   (max-width: 768px){
-    .main_logo_size {
-        width: 70px;
-        height: 70px;
-    }
-}
-@media only screen and   (min-width: 768px){
-    .main_logo_size {
-        width: 90px;
-        height: 90px;
-    }
-}*/
 
 /****************CONTACT FORM******************/
