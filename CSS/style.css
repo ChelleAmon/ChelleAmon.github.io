@@ -226,6 +226,10 @@
     #about_lead{
         font-size: 14px;
     }
+    #employment_img{
+        height: 50vh;
+        width: 20vh;
+    }
  }
 
 /* Medium devices (tablets, 768px and up)*/
