@@ -42,7 +42,7 @@
 
 
 
-/**************BUTTON STYLING****************/
+/**************BUTTON, LINK STYLING****************/
 .btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited .btn-primary:focus{
     background-color: #606c38 !important;
     border-color: #606c38 !important;
@@ -51,6 +51,11 @@
 .btn-danger, .btn-danger:hover, .btn-danger:active, .btn-danger:visited .btn-primary:focus{
     background-color: #dda15e !important;
     border-color: #dda15e !important;
+}
+
+.custom_img_project img a:hover{
+    opacity:0.6%;
+
 }
 
 /**************NAVIGATION BAR********************/
