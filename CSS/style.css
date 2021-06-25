@@ -203,6 +203,12 @@
     #about_lead{
         font-size: 11px;
     }
+    #btn_carousel1{
+        font-size: 8px;
+    }
+    #btn_carousel2{
+        font-size: 8px;
+    }
 
  }
 
@@ -230,6 +236,12 @@
         height: 50vh;
         width: 20vh;
     }
+    #btn_carousel1{
+        font-size: 10px;
+    }
+    #btn_carousel2{
+        font-size: 10px;
+    }
  }
 
 /* Medium devices (tablets, 768px and up)*/
@@ -251,6 +263,12 @@
     }
     #about_lead{
         font-size: 17px;
+    }
+    #btn_carousel1{
+        font-size: 18px;
+    }
+    #btn_carousel2{
+        font-size: 18px;
     }
 
  }
